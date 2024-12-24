@@ -25,4 +25,4 @@ To deploy UrbanSense at an intersection, follow these steps:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Shikhara17/UrbanFlow.git
-   cd urbansense
+   cd UrbanFlow
